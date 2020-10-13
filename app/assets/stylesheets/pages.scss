@@ -1,7 +1,6 @@
 // Place all the styles related to the pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
-#boxy{
-  background: url( asset-path('IMG-20201010-WA0001(1).jpg') ) no-repeat;
-  background-size: 100% 100%;
-}
+////#background-image: url(asset-path("IMG-20201010-WA0001(1).jpg"))
+//background-image: url("/assets/IMG-20201010-WA0001(1).jpg");
+background: url("/assets/VIMG-20201010-WA0001(1).jpg");
